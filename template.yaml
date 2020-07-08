@@ -1,0 +1,7 @@
+googleConfigs:
+  apiKey: <Enter Key Here>
+  url: https://maps.googleapis.com/maps/api/
+  placeSearch: place/findplacefromtext/json?
+  placeNearbySearch: place/nearbysearch/json?
+  placeTextSearch: place/textsearch/json?
+  directions: directions/
